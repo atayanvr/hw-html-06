@@ -1,4 +1,4 @@
-# goit-markup-hw-05
-html-hw-05
+# goit-markup-hw-06
+html-hw-06
 
-LINK)) - https://atayanvr.github.io/goit-markup-hw-05/
+LINK)) - https://atayanvr.github.io/hw-html-06/
