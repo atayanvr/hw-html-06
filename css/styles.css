@@ -696,7 +696,7 @@ margin-left: 70px;
 
 .footer-subscribe .email{
    
-    
+    margin-right: 7px;
     width: 358px;
     height: 50px;
     background-color: var(--background-color);
@@ -706,6 +706,14 @@ margin-left: 70px;
 }
 
 .footer-subscribe-btn{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    cursor: pointer;
+    
+    
+    
     
     width: 200px;
     height: 50px;
@@ -719,6 +727,12 @@ margin-left: 70px;
     line-height: 1.88;
     color: var(--primary-white-color);
 
+}
+
+.icon-subscribe{
+    margin-left: 10px;
+    
+    
 }
 
 
